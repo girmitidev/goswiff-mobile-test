@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C189C559-41B5-44B7-90F3-D24C97C73722</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GoSwiffPOC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>561778A2512981037C3C0B8D10A7DC4DC283DBB2</key>
+		<string>https://github.com/girmitidev/goswiff-mobile-test</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/GoSwiffPOC/GoSwiffPOC.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>561778A2512981037C3C0B8D10A7DC4DC283DBB2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/girmitidev/goswiff-mobile-test</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>561778A2512981037C3C0B8D10A7DC4DC283DBB2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>561778A2512981037C3C0B8D10A7DC4DC283DBB2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>goswiff-mobile-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
